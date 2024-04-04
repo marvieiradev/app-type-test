@@ -8,7 +8,9 @@
 }
 
 body {
-    background-color: #5d30ff;
+    height: 100vh;
+    background: rgb(93, 48, 255);
+    background: linear-gradient(0deg, rgba(93, 48, 255, 1) 0%, rgb(105, 6, 187) 100%)
 }
 
 .container {
@@ -58,8 +60,14 @@ button {
     margin: 5px
 }
 
+.reset {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
 .result {
-    margin-top: 40px;
+    margin-top: 20px;
     display: none;
 }
 
