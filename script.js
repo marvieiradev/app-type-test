@@ -104,6 +104,10 @@ const startTest = () => {
     document.getElementById("stop-test").style.display = "block";
 }
 
+const resetTest = () => {
+    window.location.reload();
+}
+
 window.onload = () => {
     userInput.value = "";
     document.getElementById("start-test").style.display = "block";
