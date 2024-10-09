@@ -11,3 +11,5 @@ Basta clicar no botão iniciar teste para iniciar, no final da digitação, é m
 ## Informações
 
 Projeto desenvolvido utilizando apenas HTML, CSS e JavaScript.
+
+<img src="screenshot.jpg"/>
